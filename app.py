@@ -4,7 +4,7 @@ import pytesseract
 from pdf2image import convert_from_path
 
 # Carregar o modelo SVM treinado
-svm_model = joblib.load('modelo.pkl')
+svm_model = joblib.load('model.pkl')
 
 # Carregar o vetorizador TF-IDF
 vectorizer = joblib.load('vectorizer.pkl')
