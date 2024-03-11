@@ -1,0 +1,9 @@
+gradio
+joblib
+pytesseract
+pdf2image
+os
+scikit-learn
+collections
+tesseract-ocr
+poppler-utils
