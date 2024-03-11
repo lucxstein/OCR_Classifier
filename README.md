@@ -9,7 +9,7 @@ Este projeto é um classificador de documentos PDF que utiliza a biblioteca Tess
 Certifique-se de ter os seguintes requisitos instalados antes de executar o código:
 
 - Python 3.x
-- Bibliotecas Python: pdf2image, pytesseract, scikit-learn, joblib, gradio
+- Bibliotecas Python: pdf2image, pytesseract, scikit-learn, joblib, gradio e + (bibliotecas necessárias no arquivo 'requirements.txt'
 
 Certifique-se de que o Tesseract OCR e Poppler estejam instalados em seu sistema e o caminho esteja configurado corretamente no código.
 
