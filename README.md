@@ -2,7 +2,7 @@
 
 ## Overview
 
-Este projeto visa classificar documentos em categorias específicas usando um modelo de Machine Learning (SVM) e vetorização TF-IDF. O código está estruturado para extrair texto de imagens contidas em documentos PDFs e treinar um modelo para classificá-los em diferentes categorias.
+Este projeto é um classificador de documentos PDF que utiliza a biblioteca Tesseract para reconhecimento óptico de caracteres (OCR) e um modelo de machine learning (SVM) para classificar os documentos em categorias específicas.
 
 ## Requisitos
 
