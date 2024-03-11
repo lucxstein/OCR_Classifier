@@ -17,7 +17,7 @@ Certifique-se de que o Tesseract OCR e Poppler (necessário para funcionamento d
 
 - **`app.py`**: Contém o código de deploy do modelo que pode ser testado no ambiente Spaces do HuggingFace: (https://huggingface.co/spaces/lucxstein/classificador_contrato_social)
   
-- **`NB_Classifier.ipynb`**: Contém o Notebook com a estruturação e treinamento do modelo de ML.
+- **`Classificador_Contrato_Social.ipynb`**: Contém o Notebook com a estruturação e treinamento do modelo de ML.
   
 - **`model.pkl`**: Arquivo pickle do modelo SVM.
   
